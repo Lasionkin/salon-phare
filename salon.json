@@ -1,7 +1,7 @@
 {
   "salon": "Salon de Boston",
-  "url": "https://svarn-104-28-240-216.free.pinggy.net",
+  "url": "https://bgsen-104-28-240-216.run.pinggy-free.link",
   "fallback_url": "https://svarn-104-28-240-216.free.pinggy.net",
-  "updated_utc": "2026-10-03T19:29:50Z",
-  "note": "Adresse mise a jour automatiquement par le superviseur."
+  "updated_utc": "2026-10-03T19:32:50Z",
+  "note": "Adresse mise a jour automatiquement par le superviseur. Essayer url puis fallback_url."
 }
